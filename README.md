@@ -77,6 +77,9 @@ docker-compose up --build
 - **GET /api/products/{id}/**: Get product by ID
 - **PUT /api/products/{id}/**: Update product by ID
 - **DELETE /api/products/{id}/**: Delete product by ID
+- **GET /api/products/?search=product**: Search Query 
+
+ 
 
 ## License
 This project is licensed under the MIT License.
